@@ -15,7 +15,7 @@ Este es el repositorio principal del curso Diseño Detallado de Software para el
 | M. Fernanda Sepúlveda | Profesora | mfsepulveda@uc.cl |
 | Mauricio Valdivia | Ayudante | movaldivia@uc.cl |
 | Gabriel Lyon | Ayudante | glyon1@uc.cl |
-| ??? | Ayudante | ??? |
+| Claudio Scheihing | Ayudante | cnscheihing@uc.cl |
 | ??? | Ayudante | ??? |
 
 ## Contenidos
