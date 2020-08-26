@@ -16,7 +16,7 @@ Este es el repositorio principal del curso Diseño Detallado de Software para el
 | Mauricio Valdivia | Ayudante | movaldivia@uc.cl |
 | Gabriel Lyon | Ayudante | glyon1@uc.cl |
 | Claudio Scheihing | Ayudante | cnscheihing@uc.cl |
-| ??? | Ayudante | ??? |
+| María Ignacia Gonzalez | Ayudante | migonzalez5@uc.cl |
 
 ## Contenidos
 
