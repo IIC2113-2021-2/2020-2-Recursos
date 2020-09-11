@@ -1,0 +1,120 @@
+14:03:08	 De Daniela Poblete : Esta larga :(
+14:05:00	 De María Luisa Claro : estan en el canal de youtube!
+14:05:40	 De Rocío : https://www.youtube.com/playlist?list=PLAIkMD8IyJ0HbKKJ4fMCiJju9Y5cExqCH
+14:05:49	 De María Luisa Claro : https://www.youtube.com/playlist?list=PLAIkMD8IyJ0HbKKJ4fMCiJju9Y5cExqCH
+14:06:08	 De Gerardo Crot Rojas : esta en canvas
+14:06:12	 De Gerardo Crot Rojas : pagina principal
+14:06:48	 De Max Schudeck : xD
+14:10:07	 De Nicolas Lahsen : Profe, en la pregunta III a), donde habla sobre recomendaciones de diseño, ¿es necesario tener un conocimiento básico de Svelte?
+14:11:15	 De Nicolas Lahsen : gracias!
+14:11:21	 De Joaquín Muñoz : que es spa?
+14:11:36	 De Henry Blair : single page app
+14:11:37	 De LUCAS VAN SINT JAN CAMPOS : Un lugar para relajarse
+14:11:45	 De Matias Oportus : jajaja
+14:11:48	 De MARTIN CADAGAN GUZMAN : jajajajajajaj
+14:11:50	 De Deborah Elberg : jajajaajaj
+14:11:56	 De Daniela Poblete : pero entonces en la 2d no hay que usar diagramas?
+14:11:58	 De Nicolas Lahsen : Sociedad por acciones
+14:11:59	 De Daniela Poblete : 3d*
+14:12:30	 De Christian Carstens : En la b) sí cierto?
+14:12:34	 De María Luisa Claro : Yo nose que es IMDB, Rotten Tomatoes y Metacritic
+14:12:38	 De María Luisa Claro : Que es eso? Jajaja
+14:12:46	 De Max Schudeck : Paginas de reseñas de peliculas y series
+14:14:52	 De Daniela Poblete : en la 1a es necesario explicitar si se responde en base a la lectura o clase? y es necesario usar ambas?
+14:15:29	 De Daniela Poblete : ya gracias :)
+14:15:31	 De MARTIN CADAGAN GUZMAN : profe, solo hay 2 lecturas o no?
+14:15:55	 De Daniela Poblete : y en la 1c es necesario explicar o solo se puede decir el número que se pide?
+14:15:56	 De MARTIN CADAGAN GUZMAN : aaa yaa, voy a buscar mejor jajajaj muchas gracias
+14:16:31	 De LUCAS VALENZUELA : Profe no entiendo la 1b 😭😭
+14:17:34	 De MARTIN CADAGAN GUZMAN : lo de las 5 líneas es de extencion, o 5 líneas a trabajar en la respuesta? (como 5 puntos o temas)
+14:18:01	 De MARTIN CADAGAN GUZMAN : perfecto, muchas gracias
+14:18:09	 De Nicolas Lahsen : donde es eso de las 5 lineas?
+14:18:11	 De Lucas Muñoz : jaja, yo estaba pensando que eran 5 temas también
+14:18:16	 De Pablo ROJAS GARCIA : Tipo de letra, tamañp de letra, interlineado, sangria?
+14:18:41	 De Pablo ROJAS GARCIA : Time new romans 12 ok
+14:22:00	 De Manuel Muñoz A. : Profe después de esta instancia hasta que hora estará respondiendo las issues? para considerarlo
+14:23:44	 De Manuel Muñoz A. : super profe, me parece importante respetar sus tiempos igual
+14:24:19	 De Max Undurraga Carey : 4 horas dijo
+14:27:24	 De Daniela Poblete : en la 1a son problemas para el proyecto o también pueden ser para el programador?
+14:27:53	 De Daniela Poblete : yap, gracias
+14:30:35	 De Javier Dreves : Profe llegue tarde asi que no sé si ya respondieron esta pregunta pero la parte teórica tiene 40 puntos y la practica tiene 100 puntos, esto quiere decir que la pregunta practica vale más del el doble que la otra o al final se promedia cada una de las preguntas ?
+14:31:48	 De Andrés Pincheira : Profe, en la 1 c también hay que explicar como llegamos a la solución y eso? o solamente mostrar como llegamos al valor y responder la pregunta?
+14:36:47	 De Daniela Poblete : Hay un minimo de recomendaciones en la 3a?
+14:37:17	 De Daniela Poblete : ya gracias :D
+14:37:27	 De Tomas Cantergiani : en el diagrama de actividad de la 3 c, cuan precisos debemos ser con el uso de simbolos?
+14:38:08	 De Tomas Cantergiani : gracias!
+14:45:50	 De María Luisa Claro : En el diagrama de actividad de la 3 tenemos que incluir nuestras recomendaciones al amigo? O solo hacer lo que el dijo
+14:46:43	 De María Luisa Claro : Oka, gracias!
+14:47:01	 De MARTIN CADAGAN GUZMAN : se podría hacer por ejemplo lo que nos piden, y presentar como alternativa lo mismo pero con nuestras recomendaciones? (en la 3)
+14:47:15	 De MARTIN CADAGAN GUZMAN : o solo buscan una sola respuesta
+14:47:45	 De MARTIN CADAGAN GUZMAN : yaa perfecto, muchas gracias
+14:51:52	 De FERNANDA DURAN CONTRERAS : Hola! No sé si lo habrán preguntado pero en la pregunta 1, cuando piden explicar cómo se llegó a esta conclusión, qué se espera?
+14:52:43	 De FERNANDA DURAN CONTRERAS : Ahh ya, gracias!
+14:52:43	 De Daniela Poblete : basta con citarlo?
+14:53:06	 De Daniela Poblete : ah nono me referia como decir que lo conclui en base a x clase
+14:53:27	 De Daniela Poblete : ah yap gracias
+14:54:00	 De Benjamin Straub Barrientos : En la 3a, las recomendaciones de diseño son respecto a cómo quiere hacer las cosas (ej: usar spa, usar un scrapper, etc) o respecto al concepto de la página?
+14:56:57	 De MARTIN CADAGAN GUZMAN : profe,en al 2 dice en el pie de página que esta "Basado en el problema propuesto de Shafaet", es relevante? porque lego al repo del link y no se qué debería buscar ahi jajajajaja
+14:57:25	 De Benjamin Straub Barrientos : entonces en la 2 hay que explicar la parte que hace que se cae? yo la arregle no más
+14:57:29	 De MARTIN CADAGAN GUZMAN : yaaa perfecto, gracias profe!
+14:57:57	 De María Luisa Claro : El diagrama de actividad de la 3 tiene que ser de solo una visita a la aplicación por el usuario? O también incluir el correo mensual
+14:58:30	 De Benjamin Straub Barrientos : si funciona arreglado!
+14:58:33	 De Daniela Poblete : si funciona
+14:58:34	 De LUIS FROS DE CASTRO : Si funciona!
+14:59:42	 De María Luisa Claro : Ok graciass
+15:04:18	 De María Luisa Claro : Perdón por hacer tantas preguntar del diagrama de actividad jajja pero
+15:04:28	 De María Luisa Claro : tenemos que considerar la actividad practica entonces?
+15:04:36	 De María Luisa Claro : Como dijo que nos guiaremos por eso
+15:05:16	 De María Luisa Claro : Okk
+15:05:21	 De MARTIN CADAGAN GUZMAN : apaña harto segun yo
+15:14:39	 De Daniela Poblete : copiary pegar directo en vs funciona
+15:14:55	 De Daniela Poblete : pero tiene extension .cs?
+15:15:05	 De Jerry Mendoza : si
+15:15:06	 De FERNANDA DURAN CONTRERAS : En la 3d, se espera que expliquemos lo que es UML en sí?
+15:15:11	 De Benjamin Straub Barrientos : si se ven más las lineas por indentación las puedes correr no más
+15:15:11	 De LUIS FROS DE CASTRO : Es por el formato del pdf.. a mi tampoco me funciono hacer copy paste
+15:15:22	 De Daniela Poblete : que raro a mi si
+15:15:36	 De LUIS FROS DE CASTRO : Puede ser el por el visor del pdf
+15:16:03	 De FERNANDA DURAN CONTRERAS : ok gracias!
+15:19:17	 De Daniela Poblete : duda solo para asegurarme, en el diagrama de la pregunte 3, lo puedo hacer en base al flujo de la parte practica independientemente de que no salga en el enunciado de la parte 3?
+15:19:54	 De Daniela Poblete : yap, gracias :)
+15:25:06	 De M. Fernanda Sepúlveda : Subí el código para los que tenían problemas para copiarlo -> https://github.com/IIC2113-2020-2/Recursos/blob/master/Enunciados%20Evaluaciones/Interrogaci%C3%B3n%201/codigop2.cs
+15:26:29	 De MARTIN CADAGAN GUZMAN : pd: muy buenas las películas que puso profe jajjajajaja
+15:28:11	 De Daniela Poblete : y otra duda de la parte practica, "exit" solo funciona en el menu principal o se pude decir en el de una película?
+15:28:35	 De Daniela Poblete : yap, gracias
+15:37:26	 De Jerry Mendoza : jajaj
+15:40:52	 De Matias Perez : Hola se puede preguntar?
+15:56:29	 De FERNANDA DURAN CONTRERAS : Profe, para la 3 se puede hacer BPMN?
+15:56:47	 De FERNANDA DURAN CONTRERAS : ok, gracias!
+15:59:29	 De NICOLAS BALBONTIN GUMUCIO : Hola! Una consulta, a qué se refiere en la pregunta 1 b) “considere al menos 5 líneas para su explicación”? Eso son 5 lineaminentos distintos o 5 líneas de escritura
+16:00:28	 De MARTIN CADAGAN GUZMAN : pregunte lo mismo, es 5 líneas de extension nomas
+16:00:29	 De M. Fernanda Sepúlveda : Nicolás, son 5 líneas escritas, es para que expliquen y no se queden solo en una frase (y para que tampoco terminen haciendo un informe, ojalá acortarlo a unas 5 líneas).
+16:00:43	 De NICOLAS BALBONTIN GUMUCIO : Vale gracias!
+16:00:52	 De MARTIN CADAGAN GUZMAN : buenisimo
+16:04:59	 De DANIEL ESTAY VALENZUELA : Cuántas veces se puede subir la prueba al buzón de canvas?
+16:05:26	 De M. Fernanda Sepúlveda : Le puse ilimitado, pero si no te deja me avisas para revisar qué pasó
+16:06:48	 De DANIEL ESTAY VALENZUELA : Ya, gracias!
+16:17:55	 De Benjamin Urrutia : perdon, la n o la m?
+16:18:14	 De Max Undurraga Carey : No me puso problema por la m a mi...
+16:19:51	 De M. Fernanda Sepúlveda : Aaaaah no, leí mal el error que subieron en al issue; está repetida la variable
+16:21:07	 De Max Undurraga Carey : Ahi si jaja
+16:23:23	 De Max Schudeck : La parte practica es la actividad que antes era para ayer o no?
+16:23:51	 De Max Schudeck : Ahhh, ya
+16:24:12	 De Max Schudeck : Entonces I1.pdf es para mañana, y Ejercicio practico.pdf es para 1 semana
+16:36:27	 De Valentina Álvarez Gálvez : Profe, una pregunta, en la pregunta 3, cuando hay que darle recomendaciones al amigo sobre  las decisiones de diseño  que ha tomado inicialmente, se refiere a la idea que tiene el amigo de hacer la app con Svelte y que sea un SPA? o como a todo el funcionamiento que se ideó? es que no sé, siento que el amigo no ha diseñado mucho entonces no se muy bien a que apunta la pregunta
+16:37:14	 De Valentina Álvarez Gálvez : ah ya ok, gracias!
+16:41:51	 De Andrés Pincheira : Profe, una consulta, si la solución para la 2.b es muy corta, vale igual(corta en el sentido de que hay que modificar pocas líneas de código)
+16:45:30	 De Daniela Poblete : para citar algo externo basta con poner el link?
+16:47:33	 De DOMINGO RAMIREZ CALVO : Hola! creo que probablemente ya preguntaron esto pero el codigo de la pregunta 2 no compila
+16:47:42	 De DOMINGO RAMIREZ CALVO : Arreglarlo es parte del ejercicio?
+16:47:54	 De M. Fernanda Sepúlveda : El link y la parte exacta; ojo, citen sitios confiables/academicos, si me citan a “Pepito el que no sabe programar” no sirve mucho
+16:48:25	 De Daniela Poblete : Wikipedia no cuenta? :(
+16:49:26	 De M. Fernanda Sepúlveda : Sí Domingo, pero el arreglo tiene que considerar los principios y buenas prácticas
+16:49:38	 De DOMINGO RAMIREZ CALVO : Dale!
+16:50:59	 De Andrés Pincheira : Desing Quality Guidelines == Principios fundamentales?
+16:53:00	 De MARTIN CADAGAN GUZMAN : chao profe muchas gracias!
+16:55:13	 De Manuel Muñoz A. : muchas gracias!
+16:55:23	 De DOMINGO RAMIREZ CALVO : Chao profe!!
+16:55:33	 De Max Schudeck : Compré una energetica justo para eso
+16:55:34	 De Max Schudeck : jajaja
+16:55:46	 De Max Schudeck : chao
