@@ -1,0 +1,34 @@
+{
+  "critics": [
+    {
+      "title": "El padrino",
+      "critics consensus": "One of Hollywood's greatest critical and commercial successes, The Godfather gets everything right; not only did the movie transcend expectations, it established new benchmarks for American cinema.",
+      "tomatometer": 98
+    },
+    {
+      "title": "Sueños de Libertad",
+      "critics consensus": "The Shawshank Redemption is an uplifting, deeply satisfying prison drama with sensitive direction and fine performances.",
+      "tomatometer": 90
+    },
+    {
+      "title": "La lista de Schindler",
+      "critics consensus": "Schindler's List blends the abject horror of the Holocaust with Steven Spielberg's signature tender humanism to create the director's dramatic masterpiece.",
+      "tomatometer": 97
+    },
+    {
+      "title": "Star Wars: El imperio contraataca",
+      "critics consensus": "Dark, sinister, but ultimately even more involving than A New Hope, The Empire Strikes Back defies viewer expectations and takes the series to heightened emotional levels.",
+      "tomatometer": 94
+    },
+    {
+      "title": "Matrix",
+      "critics consensus": "Thanks to the Wachowskis' imaginative vision, The Matrix is a smartly crafted combination of spectacular action and groundbreaking special effects.",
+      "tomatometer": 88
+    },
+    {
+      "title": "Volver al Futuro",
+      "critics consensus": "Inventive, funny, and breathlessly constructed, Back to the Future is a rousing time-travel adventure with an unforgettable spirit.",
+      "tomatometer": 96
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "critics": [
+    {
+      "name": "La lista de schindler",
+      "metascore": 94,
+      "details": {
+        "year": "1993",
+        "starring": "Liam Neeson, Ralph Fiennes",
+        "summary": "Steven Spielberg's epic drama tells the compelling true story of German businessman Oskar Schindler (Neeson) who comes to Nazi-occupied Poland looking for economic prosperity and leaves as a savior. (History in Film)"
+      }
+    },
+    {
+      "name": "The Joker",
+      "metascore": 59,
+      "details": {
+        "year": 2019,
+        "starring": "Alec Baldwin, Bill Camp, Brett Cullen, Brian Tyree Henry, Bryan Callen, Dante Pereira-Olson, Douglas Hodge, Frances Conroy, Glenn Fleshler, Isabella Ferreira, Joaquin Phoenix, Jolie Chan, Josh Pais, Leigh Gill, Marc Maron, Mary Kate Malat, Robert De Niro, Shea Whigham, Zazie Beetz",
+        "summary": "Arthur Fleck (Joaquin Phoenix) is struggling to find his way in Gotham’s fractured society. A clown-for-hire by day, he aspires to be a stand-up comic at night…but finds the joke always seems to be on him. Caught in a cyclical existence between apathy and cruelty, Arthur makes one bad decision that brings about a chain reaction of escalating events."
+      }
+    },
+    {
+      "name": "Matrix",
+      "metascore": 73,
+      "details": {
+        "year": 1999,
+        "starring": "Carrie-Anne Moss, Keanu Reeves, Laurence Fishburne",
+        "summary": "A computer hacker (Reeves) learns that his entire life has been a virtual dream, orchestrated by a strange class of computer overlords in the far future. He joins a resistance movement (led by Fishburne) to free humanity from lives of computerized brainwashing."
+      }
+    },
+    {
+      "name": "Whiplash",
+      "metascore": 88,
+      "details": {
+        "year": 2014,
+        "starring": "J.K. Simmons, Melissa Benoist, Miles Teller, Paul Reiser",
+        "summary": "Andrew Neyman (Miles Teller), a young jazz drummer who attends one of the best music schools in the country under the tutelage of the school’s fearsome maestro of jazz named Terence Fletcher (J.K. Simmons), struggles to make it as a top jazz drummer."
+      }
+    }
+  ]
+}

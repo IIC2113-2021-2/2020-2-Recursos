@@ -1,0 +1,104 @@
+{
+  "movies": [
+    {
+      "name": "El padrino",
+      "rating": 9.2,
+      "year": 1972,
+      "genre":  "Crime, Drama",
+      "summary": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "director": "Francis Ford Coppola",
+      "writers": "Mario Puzo (screenplay by), Francis Ford Coppola (screenplay by)",
+      "stars": "Marlon Brando, Al Pacino, James Caan"
+    },
+    {
+      "name": "Sueños de Libertad",
+      "rating": 9.3,
+      "year": 1994,
+      "genre": "Drama",
+      "summary": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "director": "Frank Darabont",
+      "writers": "Stephen King (short story 'Rita Hayworth and Shawshank Redemption'), Frank Darabont (screenplay)",
+      "stars": "Tim Robbins, Morgan Freeman, Bob Gunton"
+    },
+    {
+      "name": "La lista de Schindler",
+      "rating": 8.9,
+      "year": 1993,
+      "genre": "Biography, Drama, History",
+      "summary": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+      "director": "Steven Spielberg",
+      "writers": "Thomas Keneally (book), Steven Zaillian (screenplay)",
+      "stars": "Liam Neeson, Ralph Fiennes, Ben Kingsley"
+    },
+    {
+      "name": "Pulp Fiction",
+      "rating": 8.9,
+      "year": 1994,
+      "genre": "Crime, Drama",
+      "summary": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "director": "Quentin Tarantino",
+      "writers": "Quentin Tarantino (stories), Roger Avary (stories)",
+      "stars": "John Travolta, Uma Thurman, Samuel L. Jackson"
+    },
+    {
+      "name": "The Joker",
+      "rating": 8.5,
+      "year": 2019,
+      "genre": "Crime, Drama, Thriller",
+      "summary": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker.",
+      "director": "Todd Phillips",
+      "writers": "Todd Phillips, Scott Silver",
+      "stars": "Joaquin Phoenix, Robert De Niro, Zazie Beetz"
+    },
+    {
+      "name": "Star Wars: El imperio contraataca",
+      "rating": 8.7,
+      "year": 1980,
+      "genre": "Action, Adventure, Fantasy",
+      "summary": "After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued by Darth Vader and a bounty hunter named Boba Fett all over the galaxy.",
+      "director": "Irvin Kershner",
+      "writers": "Leigh Brackett (screenplay by), Lawrence Kasdan (screenplay by)",
+      "stars": "Mark Hamill, Harrison Ford, Carrie Fisher"
+    },
+    {
+      "name": "The Silent of The Lambs",
+      "rating": 8.6,
+      "year": 1991,
+      "genre": "Crime, Drama, Thriller",
+      "summary": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+      "director": "Jonathan Demme",
+      "writers": "Thomas Harris (novel), Ted Tally (screenplay)",
+      "stars": "Jodie Foster, Anthony Hopkins, Lawrence A. Bonney"
+    },
+    {
+      "name": "Volver al futuro",
+      "rating": 8.5,
+      "year": 1985,
+      "genre": "Adventure, Comedy, Sci-Fi",
+      "summary": "Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the eccentric scientist Doc Brown.",
+      "director": "Robert Zemeckis",
+      "writers": "Robert Zemeckis, Bob Gale",
+      "stars": "Michael J. Fox, Christopher Lloyd, Lea Thompson"
+    },
+    {
+      "name": "Psycho",
+      "rating": 8.5,
+      "year": 1960,
+      "genre": "Horror, Mystery, Thriller",
+      "summary": "A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.",
+      "director": "Alfred Hitchcock",
+      "writers": "Joseph Stefano (screenplay by), Robert Bloch (based on the novel by)",
+      "stars": "Anthony Perkins, Janet Leigh, Vera Miles"
+    },
+    {
+      "name": "Whiplash",
+      "rating": 8.5,
+      "year": 2014,
+      "genre": "Drama, Music",
+      "summary": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+      "director": "Damien Chazelle",
+      "writers": "Damien Chazelle",
+      "stars": "Miles Teller, J.K. Simmons, Melissa Benoist "
+    }
+  ]
+}
